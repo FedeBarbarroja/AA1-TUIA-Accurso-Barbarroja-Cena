@@ -32,6 +32,12 @@ Este trabajo práctico tiene como objetivo desarrollar un modelo de clasificaci�
 * **Serialización:** Guardado del pipeline de preprocesamiento (`joblib`) y el modelo (`.h5`).
 * **Docker:** Encapsulamiento del modelo y script de inferencia en un contenedor Docker para asegurar reproducibilidad en producción.
 
+## Archivos a Utilizar:
+* **TP-clasificacion-AA1_Entrega_3.ipynb:** Archivo que contiene todo el código desde el punto 1 hasta el 11
+* **requirements.txt** Archivo con todas las librerías y versiones utilizadas.
+* **Carpeta Docker** Carpeta con todos los archivos necesarios para la correcta construccion de la imagen del contenedor y su ejecución incluidas las instrucciones necesarias.
+
+
 ## Aprendizajes y Conclusiones
 * **Complejidad vs. Linealidad:** La Red Neuronal superó a la Regresión Logística (AUC 0.90 vs 0.87), demostrando la necesidad de capturar patrones no lineales en datos climáticos.
 * **Importancia del Preprocesamiento:** La ingeniería de características (manejo de fechas y regiones) fue crítica para la viabilidad técnica y el rendimiento del modelo.
