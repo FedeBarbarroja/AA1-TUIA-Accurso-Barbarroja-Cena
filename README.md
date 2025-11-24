@@ -34,8 +34,8 @@ Este trabajo práctico tiene como objetivo desarrollar un modelo de clasificaci�
 
 ## Archivos a Utilizar:
 * **TP-clasificacion-AA1_Entrega_3.ipynb:** Archivo que contiene todo el código desde el punto 1 hasta el 11
-* **requirements.txt** Archivo con todas las librerías y versiones utilizadas.
-* **Carpeta Docker** Carpeta con todos los archivos necesarios para la correcta construccion de la imagen del contenedor y su ejecución incluidas las instrucciones necesarias.
+* **requirements.txt:** Archivo con todas las librerías y versiones utilizadas.
+* **Carpeta Docker:** Carpeta con todos los archivos necesarios para la correcta construccion de la imagen del contenedor y su ejecución, incluidas las instrucciones necesarias.
 
 
 ## Aprendizajes y Conclusiones
